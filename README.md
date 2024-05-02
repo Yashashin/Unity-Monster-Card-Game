@@ -5,9 +5,9 @@
 
 `Read Chinese introduction in Introduction.pdf`
 
-![image](https://github.com/Yashashin/Unity-Monster-Card-Game/blob/main/moster_card_preview.png)
+![image](https://github.com/Yashashin/Unity-Monster-Card-Game/blob/main/monster_card_preview.png)
 ## How to Play
-![image](https://github.com/Yashashin/Unity-Monster-Card-Game/blob/main/moster_card_rule.png
+![image](https://github.com/Yashashin/Unity-Monster-Card-Game/blob/main/monster_card_rule.png
 )
 ### Rule:
 
