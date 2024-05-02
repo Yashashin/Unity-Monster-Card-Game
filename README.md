@@ -1,7 +1,10 @@
 # Monster Card Game
 遊戲程式設計Project3
 
+![image](https://github.com/Yashashin/Unity-Monster-Card-Game/blob/main/moster_card_preview.png)
 ## How to Play
+![image](https://github.com/Yashashin/Unity-Monster-Card-Game/blob/main/moster_card_rule.png
+)
 ### Rule:
 
 1. Each player starts with 3 life points. Whenever a player is hit directly by a monster or their own monster is defeated, they lose one life point. A player loses the game if their life points reach zero.
@@ -42,7 +45,5 @@ Join Room:
 **ATTENTION: Both players must be in the lobby at the same time for one to see the room created by the other.**
 
 Executable file in /Build/HW3.exe
-
-See screenshots in **Introduction.pdf**
 
 *IDE: Unity 2020.3*
