@@ -1,6 +1,8 @@
 # Monster Card Game
 遊戲程式設計Project3
 
+`Executable file in /Build/HW3.exe`
+
 ![image](https://github.com/Yashashin/Unity-Monster-Card-Game/blob/main/moster_card_preview.png)
 ## How to Play
 ![image](https://github.com/Yashashin/Unity-Monster-Card-Game/blob/main/moster_card_rule.png
@@ -42,8 +44,6 @@ Create Room:
 Join Room:
 - Enter the password in the top right corner and select the desired room.select the room.
   
-**ATTENTION: Both players must be in the lobby at the same time for one to see the room created by the other.**
-
-Executable file in /Build/HW3.exe
+**ATTENTION!! Both players must be in the lobby at the same time for one to see the room created by the other.**
 
 *IDE: Unity 2020.3*
